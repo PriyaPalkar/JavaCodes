@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class RemoveDuplicat {
-    public static void main(String[] args) {
+public class RemoveDuplicate {
+    public static void (String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(10);
         arr.add(20);
