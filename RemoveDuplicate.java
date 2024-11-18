@@ -11,6 +11,8 @@ public class RemoveDuplicate {
         arr.add(30);
         arr.add(20);
         arr.add(40);
+        arr.add(50);
+        arr.add(40);
 
         // Remove duplicates using Stream API
         List<Integer> uniqueList = arr.stream()
